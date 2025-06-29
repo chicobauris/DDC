@@ -20,6 +20,7 @@
 	text-decoration: none;
 	color: yellow;
 	padding-left: 15px;
+	cursor: pointer;
 }
 
 .quadro li{
@@ -37,6 +38,7 @@
 	color: yellow;
 	background: linear-gradient(180deg, #07001f, #140a74);
 	display: inline-block;
+	cursor: pointer;
 }
 
 .barracima button:hover{
