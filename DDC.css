@@ -7,14 +7,14 @@
 .barracima{
 	background: linear-gradient(180deg, #230057, #420084);
 	position: sticky;
-		animation: fade-in 1s ease-in-out forwards;
+	animation: fade-in 1s ease-in-out forwards;
 }
 .quadro{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	font-size: 20px;
-		animation: fade-in 1s ease-in-out forwards;
+	animation: fade-in 1s ease-in-out forwards;
 }
 .logao{
 	font-weight: bold;
@@ -33,7 +33,7 @@
 
 .text {
 	opacity: 0;
-		text-align: center;
+	text-align: center;
 	background-blend-mode: normal;
 	background: linear-gradient(180deg, #230057, #07001f);
 	list-style-type: none;
